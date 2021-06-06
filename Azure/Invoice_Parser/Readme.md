@@ -1,3 +1,7 @@
+# Parser Invoices
+## The following code makes use of Azure Form-Recogntion service to Parse Bills and stores Information pertaing to Invoice(Bill Amount,Items Ordered,Quantity,Vendor Name) in a json file that gets automatically created 👩‍💻
+
+
 ## Reference Links :
 
 [Azure Interface to Test Endpoints](https://fott-preview.azurewebsites.net/prebuilts-analyze)</br>
