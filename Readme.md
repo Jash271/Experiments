@@ -1,1 +1,1 @@
-## Repository for Random Experiments and Discoveries 
+## Repository for Random Experiments and Discoveries 🔬
