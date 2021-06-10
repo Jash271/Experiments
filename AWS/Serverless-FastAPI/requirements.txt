@@ -1,0 +1,6 @@
+mangum 
+fastapi[all]
+uvicorn
+python-multipart
+gunicorn
+requests
