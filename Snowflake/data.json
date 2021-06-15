@@ -1,0 +1,32 @@
+{
+   "VendorName": "SKY HOME SUPER MARKET",
+   "Invoice_ID": "10110035348",
+   "Invoice_Total": 867.9,
+   "BillItems": [
+      {
+         "name": "SKY WHEAT AATA 5KG",
+         "amount": 530,
+         "quantity": 2
+      },
+      {
+         "name": "CAD D-MILK CHO SMS&WI",
+         "amount": 49,
+         "quantity": 5
+      },
+      {
+         "name": "CHITALE DAHI 400 GM",
+         "amount": 53.9,
+         "quantity": 1
+      },
+      {
+         "name": "CHH SALTED BUNDI 170G",
+         "amount": 50,
+         "quantity": 1
+      },
+      {
+         "name": "HALDIRAM RASGULLA 1KG",
+         "amount": 185,
+         "quantity": 1
+      }
+   ]
+}
