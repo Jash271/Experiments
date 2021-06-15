@@ -8,9 +8,7 @@ import time
 from decouple import config
 
 # Add your Computer Vision subscription key and endpoint to your environment variables.
-from dotenv import load_dotenv
 
-load_dotenv()
 
 endpoint = config('COMPUTER_VISION_ENDPOINT')
 
