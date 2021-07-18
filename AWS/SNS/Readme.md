@@ -1,7 +1,11 @@
 # Sending SNS Messages
 
-## Create SNS Topic
+- ## Create SNS Topic
 
-## Add Subscription 
+- ## Add Subscription
 
-## Send SNS Message using the following Lambda Code
+- ## Create SNS Full Access Policy as in sns_policy.json
+
+- ## Create a new Lambda Role and attach the above policy to it
+
+- ## Send SNS Message using the following Lambda Code
