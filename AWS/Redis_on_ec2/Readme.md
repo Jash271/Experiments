@@ -28,3 +28,5 @@ redis-cli
 ```
 redis-cli ping
 ```
+
+[Refer this link](https://www.youtube.com/watch?v=acW0B_DyMGQ)
