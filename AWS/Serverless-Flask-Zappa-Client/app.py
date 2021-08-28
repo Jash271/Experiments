@@ -5,6 +5,7 @@ from requests import get, post
 import time
 import os
 
+
 load_dotenv()
 endpoint_1 = os.environ.get('endpoint')
 key = os.environ.get('key')
@@ -185,3 +186,7 @@ def extract_data():
     # Call GQL API's to Enter Json Details in DB
 
     return jsonify(final_res)
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
