@@ -1,0 +1,90 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2021-09-23T04:41:12Z",
+    "lastUpdatedDateTime": "2021-09-23T04:41:13Z",
+    "analyzeResult": {
+        "version": "3.0.0",
+        "readResults": [
+            {
+                "page": 1,
+                "angle": 0.4896,
+                "width": 1600,
+                "height": 1200,
+                "unit": "pixel",
+                "lines": [
+                    {
+                        "boundingBox": [
+                            555,
+                            792,
+                            1082,
+                            797,
+                            1081,
+                            852,
+                            555,
+                            848
+                        ],
+                        "text": "MH 02 DW 1339",
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    559,
+                                    792,
+                                    679,
+                                    794,
+                                    676,
+                                    849,
+                                    555,
+                                    845
+                                ],
+                                "text": "MH",
+                                "confidence": 0.988
+                            },
+                            {
+                                "boundingBox": [
+                                    699,
+                                    795,
+                                    778,
+                                    796,
+                                    776,
+                                    851,
+                                    697,
+                                    849
+                                ],
+                                "text": "02",
+                                "confidence": 0.986
+                            },
+                            {
+                                "boundingBox": [
+                                    788,
+                                    796,
+                                    902,
+                                    797,
+                                    900,
+                                    852,
+                                    786,
+                                    851
+                                ],
+                                "text": "DW",
+                                "confidence": 0.988
+                            },
+                            {
+                                "boundingBox": [
+                                    933,
+                                    797,
+                                    1080,
+                                    798,
+                                    1080,
+                                    851,
+                                    931,
+                                    852
+                                ],
+                                "text": "1339",
+                                "confidence": 0.984
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

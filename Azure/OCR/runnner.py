@@ -16,7 +16,7 @@ subscription_key = config('COMPUTER_VISION_SUBSCRIPTION_KEY')
 text_recognition_url = endpoint + "/vision/v3.1/read/analyze"
 
 # Set image_url to the URL of an image that you want to recognize.
-image_url = 'https://firebasestorage.googleapis.com/v0/b/codeit-d447b.appspot.com/o/WhatsApp%20Image%202021-06-15%20at%207.52.03%20PM.jpeg?alt=media&token=d9fb9e6e-f4d6-4cce-9013-02595b1177cc'
+image_url = 'https://reward-me.s3.amazonaws.com/WhatsApp+Image+2021-09-15+at+11.30.48.jpeg'
 
 headers = {'Ocp-Apim-Subscription-Key': subscription_key}
 data = {'url': image_url}
