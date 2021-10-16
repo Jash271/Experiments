@@ -1,4 +1,4 @@
-# Custom Herirachical Time Series Forecasting
+# Custom Heirarchical Time Series Forecasting
 
 - ## Copy the Runner class in your Azure Notebook
 
